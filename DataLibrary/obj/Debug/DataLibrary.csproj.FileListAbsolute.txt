@@ -1,0 +1,18 @@
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\euanb\source\repos\MVCData Access\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\euanb\source\repos\HP_SendCheque\DataLibrary\obj\Debug\DataLibrary.pdb
